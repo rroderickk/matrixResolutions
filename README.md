@@ -1,4 +1,4 @@
-# MatrixResurrections_4128
+# MatrixResolutions_4128
 This theme is basically the node1789 that will show up in vim's matrix theme, with a few extra touches and stuff i couldn't figure out!
 It is optimized to see patterns and focus on what really matters when coding ReactJs
 
