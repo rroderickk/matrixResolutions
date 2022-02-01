@@ -33,15 +33,15 @@
 			}
 		]
 	},
-	"icon": "public/icon.png",
+	"icon": "public/icnono.png",
 	"author": {
 		"name": "CheatModes4",
 		"email": "rmresidente@gmail.com",
-		"url": "rroderickk.github.io"
+		"url": "https://rroderickk.github.io/"
 	},
 	{
-		"repository": "https://github.com/rroderickk/matrixResolutions.git",
-		"type": "git"
+		"type": "git",
+		"repository": "https://github.com/rroderickk/matrixResolutions.git"
 	},
-	"publisher": "CheatModes4"
+	"publisher": "cheatmodes4"
 }
