@@ -14,7 +14,22 @@
             {
                 "label": "matrixResolutions4128",
                 "uiTheme": "vs-dark",
-                "path": "./themes/matrixResolutions4128-color-theme.json"
+                "path": "./themes/Boost node1729_color-color-theme.json"
+            },
+            {
+                "label": "matrixResolutions4128-2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Matrix-node1729_color-color-theme.json"
+            },
+            {
+                "label": "matrixResolutions4128-3",
+                "uiTheme": "vs-dark",
+                "path": "./themes/2148.json"
+            },
+            {
+                "label": "matrixResolutions4128-4",
+                "uiTheme": "vs-dark",
+                "path": "./themes/2148Bost.json"
             }
         ]
     }

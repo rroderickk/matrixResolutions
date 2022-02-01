@@ -1,11 +1,11 @@
 {
-	"name": "NeoVimMatrix",
+	"name": "NeoVimMatrixResolutions",
 	"type": "dark",
 	"colors": {
 		"editor.background": "#000000",
 		"editor.foreground": "#ffffff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#000000"
 	},
 	"tokenColors": [
 		{
