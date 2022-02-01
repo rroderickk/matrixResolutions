@@ -29,8 +29,8 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 
 **Enjoy!**
 
-[img0]: ./pubic/component.png "abstraccion"
-[img1]: ./pubic/reactjstheme.png "abstraccion"
-[img2]: ./pubic/myThemeForReactjs.png "transparent"
-[img3]: ./pubic/reactTheme.png "abstraccion"
-[img4]: ./pubic/themeForReact.png "abstraccion"
+[img0]: ./public/Component.png "abstraccion"
+[img1]: ./public/reactjstheme.png "abstraccion"
+[img2]: ./public/myThemeForReactjs.png "transparent"
+[img3]: ./public/reactTheme.png "abstraccion"
+[img4]: ./public/themeForReact.png "abstraccion"

@@ -1,36 +1,47 @@
 {
-    "name": "matrixresolutions4128",
-    "displayName": "matrixResolutions4128",
-    "description": "This theme is basically the node1789 that will show up in vim's matrix theme, with a few extra touches and stuff i couldn't figure out!",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.63.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "matrixResolutions4128",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Boost node1729_color-color-theme.json"
-            },
-            {
-                "label": "matrixResolutions4128-2",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Matrix-node1729_color-color-theme.json"
-            },
-            {
-                "label": "matrixResolutions4128-3",
-                "uiTheme": "vs-dark",
-                "path": "./themes/2148.json"
-            },
-            {
-                "label": "matrixResolutions4128-4",
-                "uiTheme": "vs-dark",
-                "path": "./themes/2148Bost.json"
-            }
-        ]
-    }
+	"name": "matrixresolutions4128",
+	"displayName": "matrixResolutions4128",
+	"description": "This theme is basically the node1789 that will show up in vim's matrix theme, with a few extra touches and stuff i couldn't figure out!",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.63.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "matrixResolutions4128",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Boost node1729_color-color-theme.json"
+			},
+			{
+				"label": "matrixResolutions4128-2",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Matrix-node1729_color-color-theme.json"
+			},
+			{
+				"label": "matrixResolutions4128-3",
+				"uiTheme": "vs-dark",
+				"path": "./themes/2148.json"
+			},
+			{
+				"label": "matrixResolutions4128-4",
+				"uiTheme": "vs-dark",
+				"path": "./themes/2148Bost.json"
+			}
+		]
+	},
+	"icon": "public/icon.png",
+	"author": {
+		"name": "CheatModes4",
+		"email": "rmresidente@gmail.com",
+		"url": "rroderickk.github.io"
+	},
+	{
+		"repository": "https://github.com/rroderickk/matrixResolutions.git",
+		"type": "git"
+	},
+	"publisher": "CheatModes4"
 }
